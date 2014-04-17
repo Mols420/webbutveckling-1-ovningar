@@ -17,5 +17,6 @@ Kod skrivs med 4 mellanslagsindrag ska se om det fungerar nu.
 * bbbbbbbbbbbbbbbb
 * ccccccccccccccccccc
 * dddddddddddddddddd
+När man gör listning måste man ha en stjärna och ett mellanslag. Utan mellanslag blir det ingen lista.
 
 
