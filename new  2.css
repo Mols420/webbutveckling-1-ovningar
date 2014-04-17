@@ -1,0 +1,13 @@
+body {								/*typselector anger vilka element som berörs*/
+	background-color: orange;		/*provisorisk färg*/
+	}
+p {
+	font-family: sans-serif;
+}
+.Learn {								/*klasselector*/
+	font-size: large;
+}
+.easy {								/*klasselector*/
+		font-size: small;
+		color: darkred;
+}

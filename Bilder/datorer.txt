@@ -1,0 +1,4 @@
+Så arbetar datorer
+Datorer arbetar genom att använda två olika signaler. Vi brukar kalla dessa signaler för nollor och ettor. Nollorna och ettorna representerar två värden utan mellanliggande nyanser – alltså som en strömbrytare eller en avstängningsknapp som antingen är på eller av. 
+Bitar och byte
+Varje nolla och etta består av en bit. Det är ordet bit som används när man i datorsammanhang talar om dataöverföring och om datalagring. Ordet kommer från det engelska uttrycket binary digit som betyder binär (tvåfaldig) siffra. 

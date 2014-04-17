@@ -1,0 +1,24 @@
+@charset "utf-8";
+body { background-color: #999966;
+font-family: sans-serif;}
+h1 { color: #009999;
+}
+
+h2 { color: #009999;
+font-size: 1.2em;
+}
+
+h3 {
+   border-bottom: 2px solid #333333;
+   }
+
+
+
+
+
+
+
+
+A:link { color: #333333}
+A:visited { color: #009999}
+A:active { color: #ff66cc}
