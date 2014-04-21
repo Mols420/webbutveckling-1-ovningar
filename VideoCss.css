@@ -1,0 +1,21 @@
+
+body {
+	width: 800px;
+	margin: auto;
+	font: medium sens-serif;
+}
+.active
+	background-color: navajowhite
+	}
+pre {
+	font: border large consolas, monospace;
+	width: 60%
+	float: left;
+}
+#btns
+	line-height: 2.2;
+}
+.rule {
+	width: 44ch;
+	display: block;
+}

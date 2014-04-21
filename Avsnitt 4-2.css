@@ -1,0 +1,14 @@
+body {
+	background-color: orange;	/*provisorisk färg*/
+	}
+p {
+	font-family: sans-serif;
+	}
+.learn {
+	font-size: large;
+	color: blue;
+}
+.easy {
+	font-size: small;
+	color: darkred;
+}

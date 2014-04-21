@@ -1,0 +1,6 @@
+.foobar {
+	width: 70%; /*width är ett egenskapsnamn och 70% är ett egenskapsvärde propertyname propertyvalue*/
+	border-width: 2px;
+	margin: auto;
+	font: bolder large consolas, monospace;/*font är shorttand
+}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+div {
+	padding: 5px;
+	width: 800px;
+	font-family:sans-serif;
+}
+.items {
+	border-radius: 2%;
+	border: 2px solid #DDD;
+	background-color: rgb(1,35,100)
+	}
