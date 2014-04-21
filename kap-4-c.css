@@ -1,5 +1,11 @@
+html {
+	background-color: lime;
+}
 body {
 	background-color: yellow;	/*provisorisk färg*/
+	margin: auto;
+	width: 600px;
+	height: 600px;
 	}
 p {
 	font-family: san-serif;
