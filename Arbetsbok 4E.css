@@ -1,0 +1,12 @@
+html {
+    background-color: lightslategrey;
+	font-family: sans-serif;
+}
+body {
+    margin: auto;
+    width: 500px;
+    padding-bottom: 0.1px; /*knep för div margin */
+	
+	}
+h1 {
+}
